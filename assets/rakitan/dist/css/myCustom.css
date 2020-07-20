@@ -1,0 +1,44 @@
+.btn {
+
+    border-radius: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .btn-primary {
+    color:#fff;
+    background-color: #118ab2;
+    border-color: #118ab2;
+  }
+  .btn-secondary {
+    color: #fff;
+    background-color: #264653;
+    border-color: #264653;
+  }
+  .btn-info {
+    color: #fff;
+    background-color: #073b4c;
+    border-color: #073b4c;
+  }
+  .btn-success {
+    color: #fff;
+    background-color: #2a9d8f;
+    border-color: #2a9d8f;
+  }
+  .btn-warning {
+    color: #fff;
+    background-color: #f4a261;
+    border-color: #f4a261;
+  }
+
+  .bg-success{
+      background-color: #2a9d8f !important;
+  }
+
+  .card{
+      border-radius: 20px;
+  }
+
+  .img-thumbnail{
+      border-radius: 20px;
+  }
